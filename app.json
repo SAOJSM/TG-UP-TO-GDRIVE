@@ -19,8 +19,7 @@
       "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
     },
     "SUDO_USERS": {
-      "description": "List of sudo users ids, seperated by space.",
-      "value": "999197022 939425014"
+      "description": "List of sudo users ids, seperated by space."
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format."
