@@ -1,7 +1,7 @@
 {
-  "name": "GDrive-Uploader-Bot",
+  "name": "TG-UPLOAD-FILE-TO-GDRIVE",
   "description": "Telegram/Direct Links to GDrive Uploader Bot",
-  "repository": "https://github.com/viperadnan-git/google-drive-telegram-bot",
+  "repository": "SAOJSM/TG-UPLOAD-FILE-TO-GDRIVE",
   "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
