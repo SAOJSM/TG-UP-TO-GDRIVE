@@ -19,7 +19,7 @@
       "description": "你的 API_HASH, 從 https://my.telegram.org/apps 獲取"
     },
     "SUDO_USERS": {
-      "description": "要讓誰用 請輸入telegram id 從 https://t.me/userinfobot 獲取"
+      "description": "要讓誰用 請輸入telegram id，從 https://t.me/userinfobot 獲取"
     },
     "SUPPORT_CHAT_LINK": {
       "description": "請填入你的Telegram Bot網址，格式 t.me/*，從 https://t.me/botfather 獲取"
