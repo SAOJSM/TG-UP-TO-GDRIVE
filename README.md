@@ -21,7 +21,7 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SAOJSM/TG-UPLOAD-FILE-TO-GDRIVE/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SAOJSM/TG-UPLOAD-FILE-TO-GDRIVE/tree/master)
 
 ### Installation
 - Install required modules.
