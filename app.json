@@ -16,10 +16,10 @@
       "description": "Your API_ID, Get it from https://my.telegram.org/apps"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "你的 API_HASH, 從 https://my.telegram.org/apps 獲取"
     },
     "SUDO_USERS": {
-      "description": "List of sudo users ids, seperated by space."
+      "description": "要讓誰用 請輸入telegram id 從 https://t.me/userinfobot 獲取"
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format."
