@@ -6,14 +6,14 @@
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
     "ENV": {
-      "description": "Set it to anything to enable configuration by environment variables.",
+      "description": "不要改動",
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "從 https://t.me/botfather 獲取"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "你的 API_ID, 從 https://my.telegram.org/apps 獲取"
     },
     "API_HASH": {
       "description": "你的 API_HASH, 從 https://my.telegram.org/apps 獲取"
@@ -22,10 +22,10 @@
       "description": "要讓誰用 請輸入telegram id 從 https://t.me/userinfobot 獲取"
     },
     "SUPPORT_CHAT_LINK": {
-      "description": "Support Chat link in valid url format."
+      "description": "請填入你的Telegram Bot網址，格式 t.me/*，從 https://t.me/botfather 獲取"
     },
     "DOWNLOAD_DIRECTORY": {
-      "description": "Custom path for downloads. Must end with a forward slash.",
+      "description": "不要改動",
       "value": "./downloads/"
     }
   },
